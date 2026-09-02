@@ -1,23 +1,23 @@
-# Title: Distinct contributions of motor imagery and execution to history-dependent biases in reaching
-# DOI: https://doi.org/10.64898/2026.04.17.719269
-# Authors: Seegelke, Heed
-# Scripts by Christian Seegelke, 01/09/2026
-# ==========================================================================================
+% Title: Distinct contributions of motor imagery and execution to history-dependent biases in reaching  
+% DOI: https://doi.org/10.64898/2026.04.17.719269  
+% Authors: Seegelke, Heed  
+% Scripts by Christian Seegelke, 01/09/2026  
+% ==========================================================================================
 
-# Contains the following Experiments:
-# ==========================================================================================
+% Contains the following Experiments:  
+% ==========================================================================================
 
 - EXPERIMENT 1: A061
 - EXPERIMENT 2: A054
 - EXPERIMENT 3: A069
 - RE-ANALYSIS OF DATA FROM Roberts, J.W., Wakefield, C.J., & Owen, R. (2025). Trajectory priming through obstacle avoidance in motor imagery – does motor imagery comprise the spatial characteristics of movement? Experimental Brain Research, 243:9
 
-# Data availability
-# ==========================================================================================
+% Data availability  
+% ==========================================================================================
 The preprocessed datasets required to reproduce the analyses are available on Zenodo: DOI: 10.5281/zenodo.22251643.
 
-# Scripts
-# ==========================================================================================
+% Scripts  
+% ==========================================================================================
 
 A061_Analysis_v1.3.R
 - INPUT: A061_data.csv (preprocessed data), A061_SubjInfo.xlsx (Demographics & MI Questionnaire data)
@@ -54,6 +54,5 @@ INPUT: A054_Data_complete_S02.mat
 OUTPUT: Parts of Figure 1B
 
 
-# ==========================================================================================
+% ==========================================================================================
 NOTE: PLEASE ADJUST DATA PATHS ACCORDINGLY
-
