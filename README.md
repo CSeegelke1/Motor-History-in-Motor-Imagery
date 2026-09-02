@@ -11,7 +11,7 @@ EXPERIMENT 2: A054
 EXPERIMENT 3: A069
 RE-ANALYSIS OF DATA FROM Roberts, J.W., Wakefield, C.J., & Owen, R. (2025). Trajectory priming through obstacle avoidance in motor imagery – does motor imagery comprise the spatial characteristics of movement? Experimental Brain Research, 243:9
 
-# Data to run the scripts are available at XXX
+# Preprocessed data to run the scripts are available at XXX
 
 # Scripts
 # ================================================================================================
